@@ -42,16 +42,53 @@
 body {
     font-family: 'Open Sans', Arial, sans-serif;
     font-weight: 400;
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 1.4;
-    color: darkblue;
-    background-color: whitesmoke;
+    color: #011627;
+    background-color: #fdfffc;
+
+}
+
+header {
+    padding-top: 5px;
+    margin-bottom: 30px;
+}
+
+.logo-haut {
+    font-family: "Changa One", sans-serif;
+    font-size: 1.75rem;
+    line-height: 0.8;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.logo-bas {
+    margin-top: -5px;
+}
+
+.laure-dinateur {
+    border-radius: 100%;
 }
 
 h1, h2, h3 {
     font-family: "Changa One", sans-serif;
     font-weight: 400;
 }
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.75em;
+}
+
+p {
+    line-height: 1.5;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -59,7 +96,7 @@ img {
 }
 
 a {
-    color: deeppink;
+    color: #e71d36;
     text-decoration: none;
 }
 
