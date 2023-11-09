@@ -103,3 +103,7 @@ a {
 a:hover {
     color: darkmagenta;
 }
+
+@media screen and (max-width: 480px) {
+
+}
