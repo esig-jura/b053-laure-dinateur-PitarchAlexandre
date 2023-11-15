@@ -52,9 +52,8 @@ body {
 header {
     padding-top: 5px;
     margin-bottom: 30px;
+    text-align: center;
 }
-
-
 
 .logo-haut {
     font-family: "Changa One", sans-serif;
@@ -83,6 +82,10 @@ nav {
 
 ul {
     list-style-type: none;
+}
+
+li {
+    display: inline;
 }
 
 h1 {
